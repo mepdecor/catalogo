@@ -1,15 +1,13 @@
 {
   "date": "2026-07-30",
-  "pageviews": 2,
+  "pageviews": 1,
   "byPath": {
-    "/": 2
+    "/": 1
   },
   "sessions": 1,
-  "sessionDurationMs": 16781,
-  "waClicks": 1,
-  "waBySource": {
-    "footer": 1
-  },
+  "sessionDurationMs": 21913,
+  "waClicks": 0,
+  "waBySource": {},
   "waByProdutoId": {},
   "leadsLinked": 0,
   "seenSessionIds": [
