@@ -1,0 +1,11 @@
+{
+  "id": "0617d31b-80fb-44a4-8ec6-6d58153ea3fd",
+  "versao": 1,
+  "nome": "Casa",
+  "slug": "casa",
+  "ordem": 10,
+  "ativo": true,
+  "parentId": "d04b477e-5590-43d5-b304-4768ae4ec94d",
+  "criadoEm": "2026-08-11T12:28:31.543Z",
+  "atualizadoEm": "2026-08-11T12:28:31.543Z"
+}
