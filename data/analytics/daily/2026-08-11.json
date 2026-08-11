@@ -1,14 +1,15 @@
 {
   "date": "2026-08-11",
-  "pageviews": 15,
+  "pageviews": 16,
   "byPath": {
     "/": 3,
     "/catalogo": 4,
     "/catalogo/busca": 7,
-    "/carrinho": 1
+    "/carrinho": 1,
+    "/sobre": 1
   },
   "sessions": 1,
-  "sessionDurationMs": 132088,
+  "sessionDurationMs": 142178,
   "waClicks": 1,
   "waBySource": {
     "footer": 1
