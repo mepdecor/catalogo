@@ -1,0 +1,11 @@
+{
+  "id": "6b0c6274-2c11-4039-8883-a8a605f48b8c",
+  "versao": 1,
+  "nome": "Alexa",
+  "slug": "alexa",
+  "ordem": 30,
+  "ativo": true,
+  "parentId": "23a36bd0-c3b6-4911-a8fc-17b425786602",
+  "criadoEm": "2026-08-11T12:29:50.099Z",
+  "atualizadoEm": "2026-08-11T12:29:50.099Z"
+}
