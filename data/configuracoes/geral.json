@@ -7,7 +7,7 @@
   "cores": {
     "primaria": "#111111",
     "secundaria": "#111111",
-    "fundo": "#C9C9C9",
+    "fundo": "#FFFFFF",
     "fundoNeutro": "#E1E1E1",
     "borda": "#000000"
   },
