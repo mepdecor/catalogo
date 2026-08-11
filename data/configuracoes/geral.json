@@ -1,9 +1,9 @@
 {
-  "nomeLoja": "Minha loja",
-  "mostrarNomeComLogo": false,
+  "nomeLoja": "Mep Decor",
+  "mostrarNomeComLogo": true,
   "mostrarCarrinho": true,
-  "assinatura": "Catálogo online",
-  "slogan": "Configure sua vitrine no painel admin e comece a vender pelo WhatsApp.",
+  "assinatura": "Catálogo ",
+  "slogan": "Transforme o seu ambiente com peças unicas.",
   "cores": {
     "primaria": "#111111",
     "secundaria": "#111111",
@@ -11,6 +11,10 @@
     "fundoNeutro": "#F5F5F5",
     "borda": "#E5E5E5"
   },
-  "logo": null,
+  "logo": {
+    "id": "65ec39c1-9d51-42ae-926d-4eb2c7a68894",
+    "path": "imagens/site/65ec39c1-9d51-42ae-926d-4eb2c7a68894.jpg",
+    "alt": "Mep Decor"
+  },
   "metaReceitaMensal": null
 }
