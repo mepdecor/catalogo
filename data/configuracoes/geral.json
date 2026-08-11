@@ -7,9 +7,9 @@
   "cores": {
     "primaria": "#111111",
     "secundaria": "#111111",
-    "fundo": "#FFFFFF",
-    "fundoNeutro": "#F5F5F5",
-    "borda": "#E5E5E5"
+    "fundo": "#C9C9C9",
+    "fundoNeutro": "#E1E1E1",
+    "borda": "#000000"
   },
   "logo": {
     "id": "65ec39c1-9d51-42ae-926d-4eb2c7a68894",
