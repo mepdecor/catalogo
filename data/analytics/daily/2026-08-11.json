@@ -1,13 +1,13 @@
 {
   "date": "2026-08-11",
-  "pageviews": 9,
+  "pageviews": 10,
   "byPath": {
     "/": 2,
     "/catalogo": 2,
-    "/catalogo/busca": 5
+    "/catalogo/busca": 6
   },
   "sessions": 1,
-  "sessionDurationMs": 50114,
+  "sessionDurationMs": 61188,
   "waClicks": 0,
   "waBySource": {},
   "waByProdutoId": {},
