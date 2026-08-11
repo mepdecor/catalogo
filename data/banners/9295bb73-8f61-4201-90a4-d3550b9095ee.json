@@ -1,0 +1,14 @@
+{
+  "id": "9295bb73-8f61-4201-90a4-d3550b9095ee",
+  "versao": 1,
+  "posicao": "hero",
+  "ordem": 0,
+  "ativo": true,
+  "imagem": {
+    "id": "e7c88a68-c1cd-4dfc-98c1-9b5aa91217ba",
+    "path": "imagens/banners/e7c88a68-c1cd-4dfc-98c1-9b5aa91217ba.jpg",
+    "alt": "Topo da loja"
+  },
+  "criadoEm": "2026-08-11T12:24:12.118Z",
+  "atualizadoEm": "2026-08-11T12:24:12.118Z"
+}
