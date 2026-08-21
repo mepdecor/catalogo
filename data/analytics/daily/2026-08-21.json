@@ -1,14 +1,14 @@
 {
   "date": "2026-08-21",
-  "pageviews": 13,
+  "pageviews": 16,
   "byPath": {
     "/": 4,
-    "/catalogo": 3,
-    "/catalogo/busca": 5,
-    "/produto/bandeja-octo": 1
+    "/catalogo": 4,
+    "/catalogo/busca": 6,
+    "/produto/bandeja-octo": 2
   },
   "sessions": 2,
-  "sessionDurationMs": 210683,
+  "sessionDurationMs": 225683,
   "waClicks": 0,
   "waBySource": {},
   "waByProdutoId": {},
