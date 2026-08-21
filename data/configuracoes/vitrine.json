@@ -1,5 +1,5 @@
 {
-  "layout": "classic",
+  "layout": "gallery",
   "vitrine": {
     "homeDestaquesLimit": 8,
     "homeLancamentosFetchLimit": 16,
