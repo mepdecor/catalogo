@@ -1,0 +1,14 @@
+{
+  "id": "934c37d3-0767-46e2-ba02-2f560042397a",
+  "versao": 1,
+  "posicao": "hero",
+  "ordem": 0,
+  "ativo": true,
+  "imagem": {
+    "id": "d18bee5a-e15e-47ff-a706-6737ee419a02",
+    "path": "imagens/banners/d18bee5a-e15e-47ff-a706-6737ee419a02.jpg",
+    "alt": "Carrossel da home"
+  },
+  "criadoEm": "2026-08-21T13:46:09.770Z",
+  "atualizadoEm": "2026-08-21T13:46:09.770Z"
+}
