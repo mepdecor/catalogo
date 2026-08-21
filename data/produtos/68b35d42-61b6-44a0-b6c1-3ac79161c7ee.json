@@ -1,0 +1,46 @@
+{
+  "id": "68b35d42-61b6-44a0-b6c1-3ac79161c7ee",
+  "versao": 1,
+  "nome": "Bandeja Octo",
+  "slug": "bandeja-octo",
+  "descricao": "Design Moderno e Organização para o seu Ambiente!\n\nTransforme a sua mesa, cabeceira ou estante com uma peça de design geométrico facetado exclusivo. Desenvolvido para oferecer elegância minimalista e máxima praticidade, este organizador acomoda seus itens com estabilidade e sofisticação.\nDisponivel nas cores: Branca, cinza, preto e verde-oliva\n\nPor que escolher esta peça?\n\nDesign Geométrico Facetado: Acabamento moderno e angular que se destaca na decoração contemporânea.\n\nVersatilidade Total: Perfeito como base de apoio para Echo Dot 5, porta-chaves, organizador de joias/acessórios e porta-trecos de mesa.\n\n\nEspecificações Técnicas:\n\nMaterial: Polímero termoplástico ecológico de alta resistência\n\nFormato: Cesto / Base Geométrica Multifacetada\n\nDimensões: 15,0 cm (Largura) x 15,7 cm (Comprimento) x 3,75 cm (Altura)\n\nCuidados: Limpar com pano levemente umedecido; evitar exposição prolongada a fontes intensas de calor.\n\n(Nota: Não acompanha aparelhos eletrônicos ou itens decorativos ilustrativos).",
+  "referencia": "004",
+  "preco": 49.9,
+  "precoPromocional": 39.9,
+  "categoriasIds": [
+    "0617d31b-80fb-44a4-8ec6-6d58153ea3fd"
+  ],
+  "status": "ativo",
+  "destaque": false,
+  "lancamento": false,
+  "imagens": [
+    {
+      "id": "536317b3-e4f3-4825-8f3f-5bdb87976a59",
+      "path": "imagens/produtos/536317b3-e4f3-4825-8f3f-5bdb87976a59.jpg",
+      "ordem": 0
+    },
+    {
+      "id": "823cd3ec-6fed-48b0-b476-fca197899a32",
+      "path": "imagens/produtos/823cd3ec-6fed-48b0-b476-fca197899a32.jpg",
+      "ordem": 1
+    },
+    {
+      "id": "a32efd73-8b65-459e-b77f-0f8a96e5ad36",
+      "path": "imagens/produtos/a32efd73-8b65-459e-b77f-0f8a96e5ad36.jpg",
+      "ordem": 2
+    }
+  ],
+  "variantes": [
+    {
+      "id": "5be17d19-52ca-4452-bfb7-fbaa8c915da7",
+      "atributos": {
+        "tamanho": "15x15x3.75",
+        "cor": "Branco"
+      },
+      "estoque": 0,
+      "preco": null
+    }
+  ],
+  "criadoEm": "2026-08-21T14:16:48.063Z",
+  "atualizadoEm": "2026-08-21T14:16:48.063Z"
+}

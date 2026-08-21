@@ -1,7 +1,45 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T18:00:41.778Z",
-  "total": 0,
+  "updatedAt": "2026-08-21T14:16:48.151Z",
+  "total": 1,
   "sharded": false,
-  "entries": []
+  "entries": [
+    {
+      "id": "68b35d42-61b6-44a0-b6c1-3ac79161c7ee",
+      "nome": "Bandeja Octo",
+      "slug": "bandeja-octo",
+      "referencia": "004",
+      "status": "ativo",
+      "destaque": false,
+      "lancamento": false,
+      "preco": 49.9,
+      "precoPromocional": 39.9,
+      "categoriasIds": [
+        "0617d31b-80fb-44a4-8ec6-6d58153ea3fd"
+      ],
+      "capa": {
+        "path": "imagens/produtos/536317b3-e4f3-4825-8f3f-5bdb87976a59.jpg"
+      },
+      "estoqueTotal": 0,
+      "variantesCount": 1,
+      "precoExibicao": 39.9,
+      "mostrarAPartirDe": false,
+      "facetas": {
+        "tamanho": [
+          "15x15x3.75"
+        ],
+        "cor": [
+          "Branco"
+        ]
+      },
+      "tamanhos": [
+        "15x15x3.75"
+      ],
+      "cores": [
+        "Branco"
+      ],
+      "path": "produtos/68b35d42-61b6-44a0-b6c1-3ac79161c7ee.json",
+      "atualizadoEm": "2026-08-21T14:16:48.063Z"
+    }
+  ]
 }
