@@ -1,10 +1,10 @@
 {
   "date": "2026-08-21",
-  "pageviews": 8,
+  "pageviews": 9,
   "byPath": {
     "/": 3,
     "/catalogo": 3,
-    "/catalogo/busca": 2
+    "/catalogo/busca": 3
   },
   "sessions": 1,
   "sessionDurationMs": 130994,
