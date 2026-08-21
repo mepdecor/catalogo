@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-21",
+  "pageviews": 5,
+  "byPath": {
+    "/": 1,
+    "/catalogo": 2,
+    "/catalogo/busca": 2
+  },
+  "sessions": 1,
+  "sessionDurationMs": 14829,
+  "waClicks": 0,
+  "waBySource": {},
+  "waByProdutoId": {},
+  "leadsLinked": 0,
+  "seenSessionIds": [
+    "7bb50cc1-8116-4d84-a17a-d39e57ea3f16"
+  ],
+  "linkedSessionIds": []
+}
