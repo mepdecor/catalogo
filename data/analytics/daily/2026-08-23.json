@@ -1,12 +1,12 @@
 {
   "date": "2026-08-23",
-  "pageviews": 4,
+  "pageviews": 5,
   "byPath": {
-    "/": 2,
+    "/": 3,
     "/produto/bandeja-octo": 2
   },
   "sessions": 1,
-  "sessionDurationMs": 30002,
+  "sessionDurationMs": 39761,
   "waClicks": 0,
   "waBySource": {},
   "waByProdutoId": {},
