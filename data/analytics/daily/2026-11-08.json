@@ -5,7 +5,7 @@
     "/": 1
   },
   "sessions": 1,
-  "sessionDurationMs": 240001,
+  "sessionDurationMs": 255001,
   "waClicks": 0,
   "waBySource": {},
   "waByProdutoId": {},
